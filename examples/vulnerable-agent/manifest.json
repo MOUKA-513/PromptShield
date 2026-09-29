@@ -1,0 +1,5 @@
+{
+  "tools": ["*"],
+  "permissions": "allow_all",
+  "auto-approve": true
+}

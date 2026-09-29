@@ -1,0 +1,5 @@
+{
+  "tools": ["search"],
+  "permissions": ["read_public_docs"],
+  "require_confirmation": true
+}
